@@ -50,7 +50,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGEM2",
+          "title": "ORIGEM",
           "text": "A cachaça santa Terezinha tem origem na região do vale do Canaã, interior do espírito santo, desde 1943. Possui uma das mais tradicionais destilarias do estado sendo louvada em prosa e verso. A produção é artesanal feita com cana de açúcar selecionada sem queima no corte, destilada em alambique de cobre, aquecido com fogo direto a lenha. Esta característica garante gosto suave, um cheirinho macio de cana que desce redondinho pela garganta, enxugando o caminho sem deixar gosto amargo na boca.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://cachacasantateresinha.github.io/origens.github.io/#slider-1\" data-toolbar=\"-mbrBtnMove\">CONHEÇA MAIS</a>",
           "_tags": [
