@@ -1,0 +1,15 @@
+#slider-1 H1 {
+  text-align: left;
+}
+#slider-1 P {
+  text-align: left;
+}
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #b8312f;
+}
+#menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
