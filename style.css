@@ -1,0 +1,18 @@
+
+body{margin:0;font-family:Georgia,serif;background:#f7f3ee;color:#222;line-height:1.9}
+.hero{height:100vh;background:url('assets/2.webp') center/cover;position:relative;display:flex;align-items:center;justify-content:center;text-align:center}
+.overlay{position:absolute;inset:0;background:rgba(0,0,0,.55)}
+.hero-content{position:relative;color:#fff;padding:20px;max-width:900px}
+.logo{width:260px;max-width:80%}
+h1{font-size:4rem;margin:10px 0;color:#d7a34a}
+h2{color:#9b6735}
+.btn{display:inline-block;background:#9b6735;color:#fff;padding:14px 28px;text-decoration:none;border-radius:30px}
+.content{max-width:1000px;margin:auto;padding:90px 25px}
+.alt{background:#efe8de}
+.image-full img,.gallery img,.split img{width:100%}
+.timeline div{border-left:4px solid #9b6735;padding:18px 24px;margin:20px 0;background:#fff}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:40px;max-width:1200px;margin:auto;padding:90px 25px;align-items:center}
+.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;padding:20px}
+.gallery img{height:320px;object-fit:cover}
+footer{background:#111;color:#fff;text-align:center;padding:100px 20px}
+@media(max-width:768px){.split,.gallery{grid-template-columns:1fr} h1{font-size:2.5rem}}
